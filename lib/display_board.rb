@@ -11,7 +11,7 @@ def display_board(board)
     
   puts "#{a1[0]},   | #{a1[1] | #{a1[2]  "
   puts "-----------"
-  puts "   |   |   "
+  puts "#{a2[0]   | #a2[1]  | #{a2[2]  "
   puts "-----------"
-  puts "   |   |   "
+  puts "#{a3[0]   | #a2[1]  | #{a2[2]  "
 end
