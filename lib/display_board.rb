@@ -4,5 +4,5 @@
 
 def display_board(board)
   board = [" "," "," "," "," "," "," "," "," "]
-  puts "#{board[0]}"
+  return "#{board[0]}"
 end
